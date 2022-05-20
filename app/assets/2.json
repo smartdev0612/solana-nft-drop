@@ -1,0 +1,19 @@
+{
+    "name": "Remo",
+    "symbol": "REM",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "url": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "H7ZxSs9RhdLKfJcsVf2K481GFkgyB3kkUdBFvgSkVcfZ",
+                "share": 100
+            }
+        ]
+    }
+}

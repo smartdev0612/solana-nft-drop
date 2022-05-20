@@ -1,0 +1,19 @@
+{
+    "name": "Ambi",
+    "symbol": "AMB",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "url": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "H7ZxSs9RhdLKfJcsVf2K481GFkgyB3kkUdBFvgSkVcfZ",
+                "share": 100
+            }
+        ]
+    }
+}

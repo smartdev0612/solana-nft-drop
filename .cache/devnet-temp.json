@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "71DfBJ",
+    "candyMachine": "71DfBJeyS1CLTdP5ff1GEDczrsPa6mBr5xxbRsQMQaas",
+    "collection": "KcJ5u3p6R5Y8GRroAvjigqC5Ahhrj68WNwAU2uGYZgE"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/sTBgL9pnFj5kQWsJ_RJ0NOUD6LBlqwrSfl23lBYfNTU",
+      "imageLink": "https://arweave.net/MOvFXek5aiyeZo8Z4INRkpFQKvTHp6I-ZeFUXq0wrJM?ext=png",
+      "name": "Ambi",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/h_DicVktDC0e0SMTizXGOKSSDF3Z-J9cD6PU7j6r2zo",
+      "imageLink": "https://arweave.net/FD8xw3L2ogAyiwH1P0qeAcV9M49vOqZ-_2lS1gx5xh4?ext=png",
+      "name": "Anniyan",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/Xrd9YDcsNG3M8s8KIXOUvB6nrsuJDZGONgSLuBeDSS0",
+      "imageLink": "https://arweave.net/OArG2SlL2WmT5QZOBcIbdIdbg9FiR2bXo458EUbAPPQ?ext=png",
+      "name": "Remo",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}
