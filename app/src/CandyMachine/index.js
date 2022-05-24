@@ -60,7 +60,6 @@ const CandyMachine = ({ walletAddress }) => {
           itemsAvailable,
           itemsRedeemed,
           itemsRemaining,
-          goLiveDate,
           goLiveDateTimeString,
           isSoldOut: itemsRemaining === 0,
           isActive:

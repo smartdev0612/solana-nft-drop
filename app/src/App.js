@@ -50,8 +50,8 @@ const App = () => {
 			console.log('load')
 			await checkIfWalletIsConnected()
 		}
-		window.addEventListener('load', onLoad)
-		return window.removeEventListener('load', onLoad)
+		window.addEventListener('load', onLoad);
+		return () => window.removeEventListener('load', onLoad);
 	}, [])
 
 	return (
